@@ -22,3 +22,8 @@ Capturile de ecran pot fi folosite ca preview rapid al interfeței.
 👥 Autori
 Adrian – Design & Management
 
+Screenshot:
+
+<img width="307" height="410" alt="image" src="https://github.com/user-attachments/assets/c3d65fd2-482b-45aa-8b35-8d39f0135f5d" />
+
+
